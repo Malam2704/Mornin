@@ -1,0 +1,5 @@
+made the weather stuff workign from samples, but currently working on the MTA Info data
+
+So far, I have found a flask server that will get real time data, then will be fetching data for specificed train stations
+here's the flask server 
+https://github.com/jonthornton/MTAPI
