@@ -1,6 +1,7 @@
 // import logo from './logo.svg';
 import './App.css';
 import Forecast from './components/Forecast/forecast';
+import Train from './components/Train/train';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       </header>
       <main>
         <Forecast />
+        <Train />
       </main>
       <footer>
         Created by Mohammed Alam
